@@ -1,0 +1,29 @@
+#name{
+	font-family: 'Inconsolata', monospace;
+	padding-top: 15%;
+	font-size: 500%;
+}
+
+
+#github{
+	padding-left: 25%;
+	float: left;
+	
+}
+#github_logo{
+	width: 40px;
+	height: 40px;
+}
+
+
+#resume{
+	float: left;
+}
+
+#email{
+	float:left;
+}
+
+#linkedin{
+	float: left;
+}
