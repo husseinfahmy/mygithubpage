@@ -1,29 +1,49 @@
-#name{
-	font-family: 'Inconsolata', monospace;
-	padding-top: 15%;
-	font-size: 500%;
-}
+	#name{
+		font-family: 'Inconsolata', monospace;
+		padding-top: 15%;
+		font-size: 500%;
+	}
 
 
-#github{
-	padding-left: 25%;
-	float: left;
-	
-}
-#github_logo{
-	width: 40px;
-	height: 40px;
-}
+	#github{
+		padding-left: 26.5%;
+		float: left;
+	}
+	#github_logo{
+		padding-left: 5%;
+		width: 40px;
+		height: 40px;
+	}
 
 
-#resume{
-	float: left;
-}
+	#resume{
+		padding-left: 10%;
+		float: left;
+	}
+	#acrobat_logo{
+		padding-left: 10%;
+		width: 40px;
+		height: 40px;
+	}
 
-#email{
-	float:left;
-}
 
-#linkedin{
-	float: left;
-}
+	#email{
+		padding-left: 10%;
+		float:left;
+	}
+	#email_logo{
+		padding-left: 10%;
+		width: 40px;
+		height: 40px;
+	}
+
+
+	#linkedin{
+		padding-left: 10%;
+		float: left;
+	}
+	#linkedin_logo{
+		padding-left: 10%;
+		width: 40px;
+		height: 40px;
+	}
