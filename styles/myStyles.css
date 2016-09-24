@@ -1,7 +1,20 @@
+	html { 
+		background: url(../images/background.jpg) no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
+	body {
+    overflow:hidden;
+}
+
 	#name{
-		font-family: 'Inconsolata', monospace;
+		font-family: 'Josefin Slab', serif;
 		padding-top: 15%;
 		font-size: 500%;
+		padding-left: 28.5%;
 	}
 
 
@@ -13,6 +26,7 @@
 		padding-left: 5%;
 		width: 40px;
 		height: 40px;
+		padding-bottom: 5px;
 	}
 
 
@@ -24,6 +38,7 @@
 		padding-left: 10%;
 		width: 40px;
 		height: 40px;
+		padding-bottom: 5px;
 	}
 
 
@@ -32,9 +47,10 @@
 		float:left;
 	}
 	#email_logo{
-		padding-left: 10%;
+		padding-left: 0%;
 		width: 40px;
 		height: 40px;
+		padding-bottom: 5px;
 	}
 
 
@@ -46,4 +62,5 @@
 		padding-left: 10%;
 		width: 40px;
 		height: 40px;
+		padding-bottom: 5px;
 	}
