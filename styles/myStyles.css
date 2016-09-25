@@ -15,6 +15,18 @@
 		padding-top: 15%;
 		font-size: 500%;
 		padding-left: 28.5%;
+		padding-bottom: 5%;
+	}
+
+
+	#description{
+		text-align: justify;
+        -moz-text-align-last: center;
+        text-align-last: center;
+		width: 53%;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		font-size: 20%;
+		padding-left: 1%;
 	}
 
 
