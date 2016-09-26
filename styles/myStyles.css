@@ -7,8 +7,9 @@
 	}
 
 	body {
-    overflow:hidden;
+    	overflow:hidden;
 	}
+
 
 	#name{
 		font-family: 'Josefin Slab', serif;
@@ -16,6 +17,7 @@
 		font-size: 500%;
 		padding-left: 28.5%;
 		padding-bottom: 5%;
+		color: white;
 	}
 
 
@@ -27,8 +29,13 @@
 		font-family: "Trebuchet MS", Helvetica, sans-serif;
 		font-size: 20%;
 		padding-left: 1%;
+		color: white;
 	}
 
+	#contact_info{
+		color: white;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
 
 	#github{
 		padding-left: 26.5%;
