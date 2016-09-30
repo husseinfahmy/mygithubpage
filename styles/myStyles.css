@@ -1,0 +1,85 @@
+	html { 
+		background: url(../images/autumn.jpg) no-repeat center center fixed; 
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
+
+	body {
+    	overflow:hidden;
+	}
+
+
+	#name{
+		font-family: 'Josefin Slab', serif;
+		padding-top: 15%;
+		font-size: 500%;
+		padding-left: 28.5%;
+		padding-bottom: 5%;
+		color: white;
+	}
+
+
+	#description{
+		text-align: justify;
+        -moz-text-align-last: center;
+        text-align-last: center;
+		width: 53%;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		font-size: 20%;
+		padding-left: 1%;
+		color: white;
+	}
+
+	#contact_info{
+		color: white;
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+	}
+
+	#github{
+		padding-left: 26.5%;
+		float: left;
+	}
+	#github_logo{
+		padding-left: 5%;
+		width: 40px;
+		height: 40px;
+		padding-bottom: 5px;
+	}
+
+
+	#resume{
+		padding-left: 10%;
+		float: left;
+	}
+	#acrobat_logo{
+		padding-left: 10%;
+		width: 40px;
+		height: 40px;
+		padding-bottom: 5px;
+	}
+
+
+	#email{
+		padding-left: 10%;
+		float:left;
+	}
+	#email_logo{
+		padding-left: 0%;
+		width: 40px;
+		height: 40px;
+		padding-bottom: 5px;
+	}
+
+
+	#linkedin{
+		padding-left: 10%;
+		float: left;
+	}
+	#linkedin_logo{
+		padding-left: 10%;
+		width: 40px;
+		height: 40px;
+		padding-bottom: 5px;
+	}
