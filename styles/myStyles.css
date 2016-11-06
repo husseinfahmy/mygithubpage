@@ -15,30 +15,32 @@
 		font-family: 'Josefin Slab', serif;
 		padding-top: 15%;
 		font-size: 500%;
-		padding-left: 28.5%;
-		padding-bottom: 5%;
 		color: white;
+		text-align: center;
 	}
 
 
 	#description{
+		margin:auto;
 		text-align: justify;
         -moz-text-align-last: center;
         text-align-last: center;
-		width: 53%;
+		width: 26%;
 		font-family: "Trebuchet MS", Helvetica, sans-serif;
-		font-size: 20%;
-		padding-left: 1%;
+		font-size: 100%;
 		color: white;
 	}
 
 	#contact_info{
+		padding-top: 5%;
+		margin: auto;
+		align-content: center;
 		color: white;
 		font-family: "Trebuchet MS", Helvetica, sans-serif;
 	}
 
 	#github{
-		padding-left: 26.5%;
+		padding-left: 30%;
 		float: left;
 	}
 	#github_logo{
